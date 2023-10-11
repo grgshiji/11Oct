@@ -1,0 +1,22 @@
+{
+  "blockId": "u7XzBQIC9AUUTXLiIMExU",
+  "name": "11Oct_Block1_Memberblock1_fn1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/11Oct.git",
+    "ssh": "git@github.com:grgshiji/11Oct.git",
+    "branch": "block_11Oct_Block1_Memberblock1_fn1"
+  },
+  "parentBlockIDs": [
+    "Iequesvvpykc7pzID2NLq",
+    "t-I8usiSCXZcDinW11Hr4",
+    "r6uPzDXNBBgEkJJauRnUZ"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
