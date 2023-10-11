@@ -1,0 +1,16 @@
+{
+  "name": "11Oct",
+  "type": "package",
+  "blockId": "Iequesvvpykc7pzID2NLq",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_11Oct"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
