@@ -1,0 +1,24 @@
+{
+  "blockId": "r6uPzDXNBBgEkJJauRnUZ",
+  "name": "11Oct_Block1_Memberblock1",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/11Oct.git",
+    "ssh": "git@github.com:grgshiji/11Oct.git",
+    "branch": "block_11Oct_Block1_Memberblock1"
+  },
+  "parentBlockIDs": [
+    "Iequesvvpykc7pzID2NLq",
+    "t-I8usiSCXZcDinW11Hr4"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "11Oct_Block1_Memberblock1_fn1": {
+      "directory": "11Oct_Block1_Memberblock1_fn1"
+    }
+  }
+}
